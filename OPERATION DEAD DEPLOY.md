@@ -4,7 +4,7 @@
 2 to 3 sentences. What was the situation and what question did the investigation answer? Frame it like a work ticket, not homework.
 
 ## Environment
-One list: platform, services, tools, access level. Honest framing: "live multi-user Azure training tenant, Reader access."
+Live multi-user Azure training tenant, Reader access.
 
 ## Investigation
 The core. Numbered steps IN YOUR OWN WORDS: what you looked at, what you found, what you concluded at each step. 6 to 12 screenshots of meaningful moments (portal views, query results, before/after).
