@@ -1,7 +1,7 @@
 # OPERATION DEAD DEPLOY 
 
 ## Scenario
-2 to 3 sentences. What was the situation and what question did the investigation answer? Frame it like a work ticket, not homework.
+The scenario: an intern with temporary Contributor access deployed a "test environment" over a weekend, cut every corner, and left. You come in Monday as the on-call engineer with Reader access and have to reconstruct what happened and why governance did not stop it.
 
 ## Environment
 Live multi-user Azure training tenant, Reader access.
