@@ -5,7 +5,7 @@ Documented cloud security investigations, built in a live Azure tenant
 
 Target role: Identity and Access Management
 Currently: sysadmin
-Contact: stevenshudy@gmail.com | https://www.linkedin.com/in/steven-hudy-262296187/
+Contact: stevenshudy@gmail.com · [[LinkedIn URL]](https://www.linkedin.com/in/steven-hudy-262296187/)
 
 ## Investigations
 | # | Title | Focus | Write-up |
