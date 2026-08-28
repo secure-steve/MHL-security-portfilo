@@ -7,7 +7,8 @@ The scenario: an intern with temporary Contributor access deployed a "test envir
 Live multi-user Azure training tenant, Reader access.
 
 ## Investigation
-The core. Numbered steps IN YOUR OWN WORDS: what you looked at, what you found, what you concluded at each step. 6 to 12 screenshots of meaningful moments (portal views, query results, before/after).  
+### The core. Numbered steps IN YOUR OWN WORDS: what you looked at, what you found, what you concluded at each step. 6 to 12 screenshots of meaningful moments (portal views, query results, before/after).  
+The first step is to identify anything that could indicate it is the interns "test environment." A resource must belong to a resource group, so the first place I checked was resource groups. I found the offender. A resource group that doesn't match the standard naming convention. Microsoft's official recommended naming convention recommends all Resource Groups start with "rg" prefix.
 ![Screenshot](./screenshots/Lab01/Screenshot01-01.png)
 
 
