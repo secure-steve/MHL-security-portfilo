@@ -7,16 +7,16 @@ The scenario: an intern with temporary Contributor access deployed a "test envir
 Live multi-user Azure training tenant, Reader access.
 
 ## Investigation
-### The core. Numbered steps IN YOUR OWN WORDS: what you looked at, what you found, what you concluded at each step. 6 to 12 screenshots of meaningful moments (portal views, query results, before/after).  
-The first step is to identify anything that could indicate it is the interns "test environment." A resource must belong to a resource group, so the first place I checked was resource groups. I found the offender. A resource group that doesn't match the standard naming convention. Microsoft's official recommended naming convention recommends all Resource Groups start with "rg" prefix.
-![Screenshot](./screenshots/Lab01/Screenshot01-01.png)
+#### The core. Numbered steps IN YOUR OWN WORDS: what you looked at, what you found, what you concluded at each step. 6 to 12 screenshots of meaningful moments (portal views, query results, before/after).  
+The first step is to identify anything that could indicate it is the interns "test environment." A resource must belong to a resource group, so the first place I checked was resource groups. I found the offender. A resource group that doesn't match the standard naming convention. Microsoft's official recommended naming convention recommends all Resource Groups start with "rg" prefix.  
+Screenshot01-01
 
 
 ## What broke / what surprised me
-The most credible section in the document. Dead ends, wrong guesses, the thing that took an hour. Employers know real work is messy. This section separates you from certificate collectors.
+#### The most credible section in the document. Dead ends, wrong guesses, the thing that took an hour. Employers know real work is messy. This section separates you from certificate collectors.
 
 ## Findings and recommendations
-What you determined, plus 2 or 3 recommendations as if you were reporting to the resource owner.
+#### What you determined, plus 2 or 3 recommendations as if you were reporting to the resource owner.
 
 ## What I learned
-3 to 5 bullets. At least one technical, one "what I'd do differently."
+#### 3 to 5 bullets. At least one technical, one "what I'd do differently."
