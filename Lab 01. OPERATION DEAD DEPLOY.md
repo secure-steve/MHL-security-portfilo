@@ -8,7 +8,7 @@ Live multi-user Azure training tenant, Reader access.
 
 ## Investigation
 The core. Numbered steps IN YOUR OWN WORDS: what you looked at, what you found, what you concluded at each step. 6 to 12 screenshots of meaningful moments (portal views, query results, before/after).  
-![Screenshot](./screenshots/lab01/screenshot01-01.png)
+![Screenshot](./screenshots/Lab01/Screenshot01-01.png)
 
 
 ## What broke / what surprised me
