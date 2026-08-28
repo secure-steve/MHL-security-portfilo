@@ -27,9 +27,9 @@ Why was the intern able to do this? We use policies to enforce the naming conven
 I found that there was a process failure when creating a resource. The intern did not follow the proper naming conventions.  
   
 Recommendations:  
-Switch the policy effect from audit to deny.
+Switch the policy effect from audit to deny.  
 Review who holds temporary Contributor access and for how long.  
-Require tags at deployment time rather than hoping for them.
+Require tags at deployment time rather than hoping for them.  
 
 ## What I learned
 A simple misconfiguration in a policy can lead activity that shouldn't be allowed.
