@@ -10,7 +10,7 @@ Contact: stevenshudy@gmail.com · https://www.linkedin.com/in/steven-hudy-262296
 ## Investigations
 | # | Title | Focus | Write-up |
 |---|-------|-------|----------|
-| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | [Operation Dead Deploy](./Lab01.md) |
+| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail | [Lab 01](./Lab01%20OPERATION%20DEAD%20DEPLOY.md) |
 | 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | coming, week 2 |
 | 3 | Privilege Audit | RBAC and least privilege | coming, week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | coming, week 4 |
