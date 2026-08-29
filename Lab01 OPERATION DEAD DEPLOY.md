@@ -24,7 +24,7 @@ Why was the intern able to do this? We use policies to enforce the naming conven
 ![Screenshot](./images/lab01/screenshot01-04.png)
 
 ## Findings and recommendations
-I found that there was a process failure when creating a resource. The intern did not follow the proper naming conventions.  
+I found that there was a failure to follow the process of properly creating a resource. The intern did not follow the proper naming conventions.    
   
 Recommendations:  
 Switch the policy effect from audit to deny.  
