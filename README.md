@@ -3,8 +3,6 @@
 Documented cloud security investigations, built in a live Azure tenant
 (Mad Hat Labs, a multi-user training environment).
 
-Target role: Identity and Access Management  
-Currently: sysadmin  
 Contact: stevenshudy@gmail.com · https://www.linkedin.com/in/stevenhudy/
 
 ## Investigations
