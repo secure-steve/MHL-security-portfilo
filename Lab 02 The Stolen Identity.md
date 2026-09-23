@@ -28,7 +28,7 @@ Finally, a redirect URI on the rogue app pointing at attacker-controlled infrast
 ![Screenshot](./images/lab02/screenshot02-04.png)
 
 ## Why does this attack exist?
-This is called a **Confused Deupty** attack. A threat actor would use this method to phish concent instead of credentials. Phishing credentials can be protected against with Conditional Access policies requiring MFA, device compliance, location, etc. But once a user grants concent for a rouge app, the resulting OAuth2PermissionGrant is not removed by a password reset, not removed by revoking sessions, and not removed by enforcing MFA.
+This is called a **Confused Deputy** attack. A threat actor would use this method to phish concent instead of credentials. Phishing credentials can be protected against with Conditional Access policies requiring MFA, device compliance, location, etc. But once a user grants concent for a rouge app, the resulting OAuth2PermissionGrant is not removed by a password reset, not removed by revoking sessions, and not removed by enforcing MFA.
 
 ## What broke / what surprised me
 I was surprised that standard users can register apps in Entra ID by default.  
